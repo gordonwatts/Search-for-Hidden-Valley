@@ -1,0 +1,7 @@
+*.rootmap
+*.lib
+*.exp
+*.dll
+*.def
+*.d
+*.root
